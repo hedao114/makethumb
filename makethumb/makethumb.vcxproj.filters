@@ -31,6 +31,18 @@
     <ClCompile Include="makethumb.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C_LightCom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_LightManage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mymanger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="makethumb.h">
@@ -46,5 +58,22 @@
     <QtRcc Include="makethumb.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C_LightCom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C_LightManage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DMC2210.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mymanger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
